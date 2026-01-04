@@ -1,2 +1,0 @@
-*.sgy filter=lfs diff=lfs merge=lfs -text
-105m_1100hz_R13-44m.sgy filter=lfs diff=lfs merge=lfs -text
